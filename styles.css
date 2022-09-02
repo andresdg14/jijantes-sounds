@@ -1,0 +1,10 @@
+body {
+  background-image: url(/img/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jij-title {
+  color: white;
+  text-align: center
+}
