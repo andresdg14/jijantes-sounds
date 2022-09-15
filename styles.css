@@ -8,3 +8,18 @@ body {
   color: white;
   text-align: center
 }
+
+.jij-button {
+  background: url(img/yellow_button.png) ;
+
+}
+
+.jij-btn-test {
+  width: 100px
+}
+
+.test-button {
+  border: none;
+  background: transparent;
+
+}
